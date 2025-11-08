@@ -25,12 +25,6 @@ This app is an **online machine/coffee equipment ordering system** built in Micr
 
 ![Order machine flow](orderMachine.gif)
 
-> 💡 Update the GIF paths above if you store them in `/assets/`:
-> ```markdown
-> ![Machine selection](assets/SelectMachine.gif)
-> ![Order machine flow](assets/orderMachine.gif)
-> ```
-
 ---
 
 ### Components
